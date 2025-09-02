@@ -38,7 +38,7 @@
 
   <a href="https://skillicons.dev">
 
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,cs,html,css,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,html,css,git,github&theme=dark" />
 
   </a>
 
@@ -102,4 +102,4 @@
 
   <p>Feito com ❤️ e muito ☕</p>
 
-</div> 
+</div>
